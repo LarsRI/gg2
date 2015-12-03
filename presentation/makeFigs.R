@@ -1,4 +1,3 @@
-setwd("~/work/Articles/VikingThursday/tex/figs/")
 library(ggplot2)
 library(reshape2)
 
